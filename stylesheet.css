@@ -1,0 +1,42 @@
+
+
+h1,h2,h3 { color : green }
+
+.important { color : red}
+
+#p1 {background-color: #AFEEEE} /* .for class, # for id */
+
+#tsection1
+{
+    width: 20%;
+    background-color: yellow;
+    color: black;
+    float: left;
+	border : dotted;
+}	
+
+#musicSearch
+{
+	width: 78%;
+	float: left;
+	border: dotted;
+	background-color: yellow;
+}
+
+#hittasticIMG
+{
+	float:left;
+}
+
+#signupLink
+{
+	position: relative;
+	position: absolute;
+	bottom: 0px;
+	right : 0px;
+	left : 0px;
+	height: 5%;
+	
+	border : dotted;
+	background-color: yellow;
+}
